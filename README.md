@@ -1,5 +1,10 @@
 # Raspberry Pi Remote
 
+## This fork...
+allows sending of binary commands like
+./send FFFF0FFFF00F 
+for turning on unit 5 with dip position: 0000100001 
+
 ## About
 Control your remote power sockets with a raspberry pi.
 This project includes a web interface.
